@@ -1,0 +1,25 @@
+# Executables
+*.out
+*.exe
+question_[0-9]
+!*.cpp
+
+# Object files
+*.o
+*.obj
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+
+# Libraries
+*.a
+*.so
+*.dylib
+
+# Build directories
+build/
+cmake-build-*/
